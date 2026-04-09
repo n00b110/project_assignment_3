@@ -217,17 +217,6 @@ You may also include additional folders such as:
 - `snowflake/` - Snowflake connection and query scripts
 - `docs/` - architecture diagram and additional documentation
 
-## System Architecture Diagram
-
-Add your architecture diagram image or link here once finalized.
-
-## Demo Video
-
-Add your public video link here once recorded.
-
-## Poster
-
-Add your poster PDF link here once finalized.
 
 ## Team Contributions
 
